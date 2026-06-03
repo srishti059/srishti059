@@ -10,7 +10,7 @@ Full Stack Developer • AI/ML Infrastructure • Competitive Programmer
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aviralsaxena16&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=aviralsaxena16&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=aviralsaxena16&theme=github_dark&hide_border=false" alt="Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
